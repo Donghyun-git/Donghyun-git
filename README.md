@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Blog
-<a href="[버튼을 눌렀을 때 이동할 링크](https://velog.io/@donghyun1113)" target="_blank"><img src="https://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> 
+<a href="https://velog.io/@donghyun1113" target="_blank"><img src="https://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donghyun-git&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyun-git&langs_count=10&layout=compact&theme=dark)](https://github.com/Donghyun-git/Donghyun-git)
