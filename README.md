@@ -25,6 +25,13 @@ Here are some ideas to get you started:
 #### Stack
   
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>
+#### Project
+
+|Repository|기간|한 줄 설명|
+|:---:|:---:|:---:|
+|indivisual|22.10 ~ 23.02|학교 소모임 홍보 페이지|
+|Seniory|22.03 ~ 22. 11|학교 졸업작품(주제:생활관리사맞춤서비스)|
+
 
 #### Now
 
