@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 #### Now
 
-- 🌱 I’m currently learning more React and Algoristhm. 
+- 🌱 I’m currently intersted in vue.js now. 
