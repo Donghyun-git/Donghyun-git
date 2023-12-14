@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Blog
-<a href="https://velog.io/@donghyun1113" target="_blank"><img src="https://img.shields.io/badge/-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> 
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donghyun-git&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyun-git&langs_count=10&layout=compact&theme=dark)](https://github.com/Donghyun-git/Donghyun-git)
